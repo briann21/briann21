@@ -181,6 +181,7 @@ CN_Model<-function(fnc_CNModel, CNavg = 75,IaFrac = 0.05,fnc_slope=0,
 package.skeleton("BSEHydroModels",list=c("soil_wetting_above_capacity",
                                          "soilwetting","soildrying","TMWB_Model","CN_Model"))
 install.packages("BSEHydroModels", repos = NULL)
-
+###### cant do the commit got lost on this part
 #git config --global user.email "briann21@vt.edu"
 #git config --global user.name "briann21"
+
